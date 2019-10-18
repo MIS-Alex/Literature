@@ -124,7 +124,7 @@
 
 ## Python
 
-* [Automate the Boring Stuf with Python by Al Sweigart - 2015(/Books/Python-AutomatetheBoringStuffwithPython.pdf)
+* [Automate the Boring Stuf with Python by Al Sweigart - 2015](/Books/Python-AutomatetheBoringStuffwithPython.pdf)
 * [Fluent Python by Luciano Ramalho - 2016](/Books/Python-FluentPython.pdf)
 * [Illustrated Guide to Python 3 by Matt Harrison - 2017](/Books/Python-IllustratedGuidetoPython3.pdf)
 * [Python for Informatics by Charles Severance - 2011](/Books/Python-PythonforInformatics.pdf)
